@@ -2,7 +2,6 @@
 import xmltodict, json, io
 import fnmatch
 import os
-import fnmatch
 import pandas as pd
 
 dfProdutoNFe = pd.DataFrame(columns=['nrNfe',
