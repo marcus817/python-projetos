@@ -1,8 +1,4 @@
-import os
-import os
-import glob
-import xmltodict, json, io
-import fnmatch
+import os, json, glob, xmltodict, fnmatch
 import pandas as pd
 
 dfProdutoNFe = pd.DataFrame(columns=['nrNfe',
